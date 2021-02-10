@@ -1,0 +1,96 @@
+body{
+  margin-top:70px;
+  font-size:16px;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family:Poppins;
+}
+
+p{
+  font-family:Poppins;
+}
+
+.navbar-default{
+  background:url(../img/image4.jpg);
+  border:0;
+  font-family:Poppins;
+}
+
+.navbar-brand{
+  font-size:25px;
+  color:#000 !important;
+  font-weight:bold;
+}
+
+#showcase h1{
+  font-size:50px;
+  margin-bottom:20px;
+}
+
+#showcase img{
+  width:98%;
+  margin-left:40px;
+}
+
+#showcase .showcase-right{
+  margin-top:84px;
+}
+
+#boxes{
+  background:#f1f1f1;
+  margin-top:80px;
+  padding:10px;
+}
+
+#boxes .box{
+  float:left;
+  text-align:center;
+  width:33%;
+   margin-top:10px 0 30px 0;
+  padding:20px;
+}
+
+#boxes .box img{
+  width:80px;
+}
+
+#info1{
+  background:url(../img/image2.png);
+  padding:95px;
+}
+
+#info1 .info-right{
+  text-align:left;
+  margin-top:-50px;
+  margin-left:-30px;
+}
+
+#testimonial{
+  background:#f1f1f1;
+  padding:25px;
+  text-align:center;
+  margin-bottom:-50px;
+}
+
+#testimonial p{
+  font-size:32px;
+  font-family: 'Josefin Sans';
+  color:#000;
+  margin-top:20px;
+}
+
+#testimonial p.customer{
+  font-size:20px;
+  color:#666;
+}
+
+#contact{
+  background:url(../img/image3.png);
+  padding:80px;
+  color:#000;
+}
+
+footer{
+  padding:30px;
+}
